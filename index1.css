@@ -1,0 +1,12 @@
+body{ 
+    background-color: rgb(159, 219, 159);
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+#stena {
+    border: 3px solid #000;
+    margin-bottom: 10px;
+    width: 50%;
+}

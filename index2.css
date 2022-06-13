@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(67, 228, 153);
+}
+.stena {
+    margin: auto;
+    border: 3px solid #000;
+    width: 50%;
+    margin-top: 100px;
+   
+}
+input{
+    width: 50px;
+}
+#like {
+    height: 100px;
+    width: 100px;
+}
